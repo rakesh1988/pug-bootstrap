@@ -35,9 +35,9 @@
   },
   "homepage": "https://github.com/mike-goodwin/pug-bootstrap",
   "devDependencies": {
-    "mocha": "^2.3.4"
+    "mocha": "^3.5.0"
   },
   "dependencies": {
-    "pug": "^2.0.0-beta3"
+    "pug": "^2.0.0-rc.3"
   }
 }
